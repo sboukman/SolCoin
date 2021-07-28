@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 14 04:47:43 2021
+
+@author: sollyboukman
+"""
+
+NANOSECONDS = 1
+
+MICROSECONDS = 1000 * NANOSECONDS
+
+MILLISECONDS = 1000 * MICROSECONDS
+
+SECONDS = 1000 * MILLISECONDS
+
+MINE_RATE = 4 * SECONDS
+
+STARTING_BALANCE = 1000
